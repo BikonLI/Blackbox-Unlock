@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "matrix.h": "c",
+        "functions.h": "c",
+        "*.tcc": "cpp",
+        "tensor.h": "c",
+        "time.h": "c",
+        "base.h": "c",
+        "stdlib.h": "c",
+        "windows.h": "c",
+        "cnn.h": "c",
+        "_mingw.h": "c",
+        "stdio.h": "c"
+    }
+}
